@@ -4,4 +4,3 @@
 * Lime
 * Tomato
 ## Instructions
-* mash up avocados
